@@ -1,6 +1,6 @@
 # Restricted-Boltzmann-Machines-for-Movie-Ratings
 
-For this project, a Restricted Boltzmann Machine model predicts whether a user liked or disliked a movie. 
+For this project, a Restricted Boltzmann Machine model predicts whether a user will like or dislike a movie. 
 
 It is highly recommended to read the paper for Restricted Boltzmann Machines first: 
 
